@@ -68,8 +68,8 @@ This folder contains process guides organized by project phase:
 
 OctoAcme is built on five core principles:
 
-- **Customer-first** — Prioritize customer value and usability in all decisions.
-- **Iterative delivery** — Deliver small, testable increments to reduce risk and accelerate feedback.
-- **Clear ownership** — Each project has a named Project Manager and Product Lead.
-- **Data-informed decisions** — Measure impact and iterate based on evidence.
-- **Psychological safety** — Encourage feedback, learning, and blameless retrospectives.
+1. **Customer-first** — Prioritize customer value and usability in all decisions.
+2. **Iterative delivery** — Deliver small, testable increments to reduce risk and accelerate feedback.
+3. **Clear ownership** — Each project has a named Project Manager and Product Lead.
+4. **Data-informed decisions** — Measure impact and iterate based on evidence.
+5. **Psychological safety** — Encourage feedback, learning, and blameless retrospectives.
